@@ -1,0 +1,12 @@
+.btn-theme {
+  display: flex;
+  width: max-content;
+  margin: auto;
+  padding: 0.7rem;
+  background-color: cornflowerblue;
+  border-radius: 15px 15px;
+  color: black;
+  border: 3px solid black;
+  cursor: pointer;
+  font: 400 1.2rem Arial;
+}
